@@ -12,5 +12,5 @@ URFU Hackathon 2023 - Automatic receipt data extraction
 
 Итоговые файлы:
 
-- Final.ipynb (для работы на CPU)
-- FinalGPU.ipynb (для работы на GPU)
+- [Final.ipynb](https://github.com/Illania/hackaton2023/blob/main/Final.ipynb) (для работы на CPU)
+- [FinalGPU.ipynb](https://github.com/Illania/hackaton2023/blob/main/FinalGPU.ipynb) (для работы на GPU)
